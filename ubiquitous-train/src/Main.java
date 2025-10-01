@@ -10,6 +10,8 @@ public class Main {
 		System.out.println("This message is from Bob himself. I'm calling the cops");
 		System.out.println("bob eats human flesh for fun and is legalizes canabilism");
 		System.out.println("He also likes to eat chocolate");
+		
+		System.out.println("Bob will not take this slander any longer.");
 	}
 
 }
